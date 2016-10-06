@@ -1,0 +1,8 @@
+MIDlet-1: Maze, /icons/maze.png, net.frog_parrot.maze.Maze
+MIDlet-Description: Example code for J2ME Games book
+MIDlet-Name: J2ME Games Examples
+MIDlet-Permissions: 
+MIDlet-Vendor: frog-parrot.net
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0

@@ -1,0 +1,6 @@
+To build with KToolbar: 
+copy each chapter's directory tree into the apps directory under the 
+WTK2.0 directory.  For example, after copying you should have the 
+following directory:
+WTK2.0/apps/ch01/src/net/frog_parrot/hello/Hello.java
+or

@@ -1,0 +1,11 @@
+MIDlet-1: Dungeon, /images/crown.png, net.frog_parrot.dungeon.Dungeon
+MIDlet-2: Checkers, /images/checkerboard.png, net.frog_parrot.checkers.Checkers
+MIDlet-3: TestMessage, /images/crown.png, net.frog_parrot.http.Messenger
+MIDlet-Description: Example code for J2ME Games book
+MIDlet-Name: J2ME Games Examples
+MIDlet-Jar-URL: book.jar
+MIDlet-Vendor: frog-parrot.net
+MIDlet-Version: 2.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-Size: 39390
